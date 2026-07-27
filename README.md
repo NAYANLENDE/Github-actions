@@ -1,4 +1,4 @@
 # Github-actions
 This is my github-action repo.
 <br>
-Author: Nayan Lende
+Author: Nayan
